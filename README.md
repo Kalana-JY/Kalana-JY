@@ -3,7 +3,7 @@
 I'm an undergraduate Software Engineering student at Sri Lanka Institute of Information Technology with a passion for software development and problem-solving. I am enthusiastic about learning new technologies and applying my skills to build meaningful projects.
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Software Engineering.
-- 🌱 I’m currently learning about MERN Stack, R Language, Phython, Kotlin.
+- 🌱 I’m currently learning about MERN Stack, R Language, Python, Kotlin.
 - 💻 My main areas of interest are Full-Stack Web Development, Mobile App Development, AI.
 - 🚀 I'm actively looking for Software Engineering internship opportunities.
 - 📫 You can reach me at ksd.jayawardhana@gmail.com or on LinkedIn (www.linkedin.com/in/kalana-jayawardhana-1b5023326).
