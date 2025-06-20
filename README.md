@@ -35,6 +35,6 @@ I'm an undergraduate Software Engineering student at Sri Lanka Institute of Info
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalana-JY&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalana-JY&layout=compact&theme=radical&hide_border=true)
